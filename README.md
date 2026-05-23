@@ -6,15 +6,6 @@
 
 **M2C EDGE‑Link** is an industrial IoT edge gateway developed in collaboration with **Central Manufacturing Technology Institute** and **ENMAZ Engineering Services Pvt. Ltd.** It connects CNC machines (SINUMERIK, FANUC, etc.) to the cloud using OPC UA, MQTT, FOCAS, MODBUS, or RS485.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Hardware Requirements](#hardware-requirements)
-- [Software Stack](#software-stack)
-
----
 
 ## Overview
 
