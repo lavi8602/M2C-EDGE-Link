@@ -63,7 +63,7 @@ The system follows a **layered architecture**:
 
 | Component          | Version / Notes                               |
 |--------------------|-----------------------------------------------|
-| OS                 | Raspberry Pi OS (32‑bit, Debian Bookworm)     |
+| OS                 | Raspberry Pi OS (32‑bit/64-bit, Debian Bookworm)     |
 | Node.js            | 20.x (installed via Node‑RED script)          |
 | Node‑RED           | 3.x (latest stable)                           |
 | MQTT Broker        | Eclipse Mosquitto                             |
