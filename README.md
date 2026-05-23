@@ -1,4 +1,4 @@
-# M2C EDGE‑Link – Universal Machine to Cloud Gateway (Public Documentation)
+# M2C EDGE‑Link – Universal Machine to Cloud Gateway
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red)](https://www.raspberrypi.com/)
