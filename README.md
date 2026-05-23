@@ -6,12 +6,6 @@
 
 **M2C EDGE‑Link** is an industrial IoT edge gateway developed in collaboration with **Central Manufacturing Technology Institute** and **ENMAZ Engineering Services Pvt. Ltd.** It connects CNC machines (SINUMERIK, FANUC, etc.) to the cloud using OPC UA, MQTT, FOCAS, MODBUS, or RS485.
 
-> ⚠️ **This is the public documentation repository.**  
-> The complete source code, production scripts, and customer‑specific configurations are kept in a **private repository**.  
-> The content here is meant for learning, evaluation, and community contribution.
-
----
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -19,19 +13,6 @@
 - [System Architecture](#system-architecture)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Stack](#software-stack)
-- [Installation Guide (Generic)](#installation-guide-generic)
-  - [1. Raspberry Pi OS Setup](#1-raspberry-pi-os-setup)
-  - [2. Install Node-RED](#2-install-node-red)
-  - [3. MQTT Broker (Mosquitto)](#3-mqtt-broker-mosquitto)
-  - [4. MQTT Bridge to Remote Broker (Example)](#4-mqtt-bridge-to-remote-broker-example)
-  - [5. Python Virtual Environment & Dummy Bridge Script](#5-python-virtual-environment--dummy-bridge-script)
-  - [6. Node-RED Flow Import (Example)](#6-node-red-flow-import-example)
-  - [7. Kiosk Mode & Auto‑start](#7-kiosk-mode--auto-start)
-- [Running the System](#running-the-system)
-- [OEE Calculation](#oee-calculation)
-- [Troubleshooting](#troubleshooting)
-- [Repository Structure](#repository-structure)
-- [Credits](#credits)
 
 ---
 
@@ -101,5 +82,3 @@ The system follows a **layered architecture**:
 | Browser (kiosk)    | Chromium                                      |
 
 ---
-
-
